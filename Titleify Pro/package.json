@@ -1,0 +1,9 @@
+{
+  "name": "titleify-pro",
+  "version": "1.0.0",
+  "description": "Titleify Pro - Breaking Bad Title & Animated Intro Creator",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
